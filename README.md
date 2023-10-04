@@ -12,6 +12,6 @@
 * apllay the ML models to classifier tge  text id dublicated or not 
 * use gradSarchCV to get best mdoel with best prams 
 * using deep learning to classifire 
-## the accuricy 99.9 without over fit
+## the accuricy 98 without over fit
 ### Link of data 
 [This is a linle of data](https://www.kaggle.com/code/akshat4112/quora-question-pair-similarity-part-1-basic-eda/data)
